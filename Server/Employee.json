@@ -1,0 +1,44 @@
+{
+  "Employee": [
+    {
+      "empname": "Arun",
+      "age": 23,
+      "salary": "1234657",
+      "city": "Bangalore",
+      "gender": "Female",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "empname": "Arun",
+      "age": 23,
+      "city": "Bangalore",
+      "gender": "male",
+      "salary": 1234
+    },
+    {
+      "id": 3,
+      "empname": "Arun",
+      "age": 23,
+      "city": "Bangalore",
+      "gender": "male",
+      "salary": 1234
+    },
+    {
+      "id": 4,
+      "empname": "Suresh",
+      "age": 23,
+      "city": "Bangalore",
+      "gender": "male",
+      "salary": 1234
+    },
+    {
+      "id": 5,
+      "empname": "Bhoomi",
+      "age": 23,
+      "city": "Bangalore",
+      "gender": "female",
+      "salary": 1234
+    }
+  ]
+}
